@@ -1,10 +1,3 @@
-//Make Sure you add dependencies in build.gradle file for Retrofit and Gson
-// implementation(libs.retrofit)
-// implementation(libs.converter.gson)
-// Add Permission for Internet in Android Manifest file
-//<uses-permission android:name="android.permission.INTERNET"/>
-
-
 package com.example.api_integration
 
 import android.os.Bundle
